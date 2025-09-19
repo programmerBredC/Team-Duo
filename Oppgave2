@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">			
+    <head>		
+        <meta  charset="UTF-8"> 		
+        <title> Oppgave 2 i Data1200</title>	
+        <link rel="stylesheet" href="css/indexY2.css"> 				
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">												
+    </head>				
+    <body>				
+        <header>			
+            <nav>			
+                <ul>				
+                    <li><a href="#home">Home</a></li>				
+                    <li><a href="#about">About</a></li>				
+                </ul>				
+            </nav>				
+        </header>				
+            <main>	
+                <h1>TASK 2</h1>		
+            </main>		
+            <article>
+                <p id="ingress">Dette er et avsnitt som handler om hvordan vi skal gjøre oppgave to. Vi er to personer som
+                    samarbeider for å lage en grunnleggende nettside med elementære <span>HTML elementer</span>. Dette inkluderer
+                    riktig strukt, overskrifter, artikler og avsnitt. 
+                </p> 
+
+                <p>Dette er viktig lærdom for å forstå hvordan grunnleggende kode er bygd opp. Hvis vi lærer dette på 
+                    riktig måte kan det legge grunnlaget for å forstå mer kompliserte begreper senere. Vi er så begeistret
+                    for å få til dette at vi gjøre denne oppgaven som er helt frivillig       
+                </p>
+
+                <p>
+                    Vi håper å lære følgende:
+                </p>
+                <ul>
+                    <li>God struktur</li>
+                    <li>Bruk av riktig tagg</li>
+                    <li>Gode programmeringsvaner</li>
+                </ul>
+            </article>		
+            <footer>				
+            </footer>				
+     </body>				
+</html>				
