@@ -1,0 +1,45 @@
+h1{
+    position: relative;
+    text-align: center;
+    background-color: yellow;
+    padding: 50px;
+}
+
+.oslo-img {
+    width: 400px;
+    border-radius: 12px;
+    display: block;
+    margin: 20px auto;
+}
+
+
+.btn {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #6e6b72;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.btn:hover {
+    background-color: #005bb5;
+}
+
+
+
+ nav{
+   li;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: center;
+   background-color: #969576;
+
+
+}
